@@ -13,6 +13,8 @@ I built a model to predict California housing prices using data from Kaggle.
 - **Main.py** → main script with data processing, training & evaluation
 - **requirements.txt** → dependencies
 - **README.md** → project overview
+- **Main_old.py** → like main script but used for spliting training and testing data and to find best regression method for this project
+  (Not used for model training)
 
 ## 📊 Model
 - Tried Linear Regression, Decision Tree, Random Forest
