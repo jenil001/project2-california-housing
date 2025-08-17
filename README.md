@@ -35,7 +35,8 @@ python Main.py
 - Model + pipeline are saved for inference
 
 ### 📊 Model Comparison
-<img src="https://github.com/user-attachments/assets/c7fb009a-82b4-4763-bdfa-31099931721" alt="Model Comparison" width="500"/>
+<img src="https://github.com/user-attachments/assets/ceecdfdd-3dc5-430d-81b1-2ff74e1aeb0b" alt="Model Comparison" width="500"/>
+
 
 ### 🔎 Feature Importance
 <img src="https://github.com/user-attachments/assets/55e5b3cf-fc88-43c5-8c05-29cd47bfc12a" alt="Feature Importance" width="500"/>
